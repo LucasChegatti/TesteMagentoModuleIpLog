@@ -21,11 +21,16 @@ Módulo para Magento 2 que grave o IP de cada visitante no debug.log
     <li>Criei um método execute que chama o método que criei nessa classe Logger.</li>
   </ul>
   Nesse caso eu esse comando para gerar log:
-  ```
-  php bin\magento magento:logExample
-  ```
+</p>
+
+```
+php bin\magento magento:logExample
+```
+
+<p align="justify">
   E ele grava o arquivo e grava o log dentro dele.
 </p>
+
 
 
 
